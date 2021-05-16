@@ -82,3 +82,4 @@ validation의 성능이 가장 좋았던 weight를 저장하여 최종 weigt로 
 ### our Test set accuracy : 99%
 
 ### competition Test set accuracy : 84%
+
