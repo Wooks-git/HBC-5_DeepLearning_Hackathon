@@ -63,15 +63,22 @@ Total : 10779
 
 # Train
 
-Model : resnet50
+### Model : resnet50
 
-epoch : 20
+### epoch : 20
 
-loss : CrossEntropy
+### loss : CrossEntropy
 
-optimizer : Adam
+### optimizer : Adam
 
-Learning rate : 3e-3 (0.003)
+### Learning rate : 3e-3 (0.003)
 
 validation의 성능이 가장 좋았던 weight를 저장하여 최종 weigt로 사용
 
+<img src ='https://user-images.githubusercontent.com/77375223/118391020-2d24a980-b66d-11eb-823e-00794667d449.png' width = 500>
+
+# Result
+
+### our Test set accuracy : 99%
+
+### competition Test set accuracy : 84%
