@@ -18,31 +18,39 @@
   <tr>
     <td>Class</td>
     <td>Name</td>
+    <td>Image</td>
+
   </tr>
   
   <tr>
   <td>0</td>
   <td>공학관</td>
+  <td><img src = 'https://user-images.githubusercontent.com/77375223/118389775-7a514d00-b666-11eb-8c63-15a70f46ea24.png' width = 100></td>
   </tr>
   
   <tr>
   <td>1</td>
   <td>일송아트홀</td>
+  <td><img src = 'https://user-images.githubusercontent.com/77375223/118389775-7a514d00-b666-11eb-8c63-15a70f46ea24.png' width = 100></td>
   </tr>
   
   <tr>
   <td>2</td>
   <td>산학 협력관</td>
+  <td><img src = 'https://user-images.githubusercontent.com/77375223/118389775-7a514d00-b666-11eb-8c63-15a70f46ea24.png' width = 100></td>
   </tr>
   
   <tr>
   <td>3</td>
   <td>대학본부 별관</td>
+  <td><img src = 'https://user-images.githubusercontent.com/77375223/118389775-7a514d00-b666-11eb-8c63-15a70f46ea24.png' width = 100></td>
   </tr>
   
   <tr>
   <td>4</td>
   <td>CLC</td>
+  <td><img src = 'https://user-images.githubusercontent.com/77375223/118389775-7a514d00-b666-11eb-8c63-15a70f46ea24.png' width = 100></td>
+
   </tr>
   
       
