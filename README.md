@@ -43,14 +43,35 @@
   <tr>
   <td>3</td>
   <td>대학본부 별관</td>
-  <td><img src = 'https://user-images.githubusercontent.com/77375223/118389775-7a514d00-b666-11eb-8c63-15a70f46ea24.png' width = 100></td>
+  <td><img src = 'https://user-images.githubusercontent.com/77375223/118390234-f6e52b00-b668-11eb-9818-a7d3b541eba8.png' width = 100></td>
   </tr>
   
   <tr>
   <td>4</td>
   <td>CLC</td>
   <td><img src = 'https://user-images.githubusercontent.com/77375223/118389775-7a514d00-b666-11eb-8c63-15a70f46ea24.png' width = 100></td>
-
   </tr>
+</table>
   
-      
+Train set : 7688
+
+Validation set : 1569
+
+Test set : 1522
+
+Total : 10779
+
+# Train
+
+Model : resnet50
+
+epoch : 20
+
+loss : CrossEntropy
+
+optimizer : Adam
+
+Learning rate : 3e-3 (0.003)
+
+validation의 성능이 가장 좋았던 weight를 저장하여 최종 weigt로 사용
+
